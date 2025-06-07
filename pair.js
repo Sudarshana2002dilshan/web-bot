@@ -81,11 +81,11 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*dilshan [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/WKGLBR2PCETWD1*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ*`;
-            const mg = `🛑 *cyber dilshan bug bot* 🛑`;
+            const sid = `*[ The powerful WA BOT]*\n\n👉Cyber DILSHAN👈\n\n*You can ask any question using this link*\n\n*wa.me/message/D744JB6URNIZC1*\n\n*You can join my telgrame group*\n\n*https://t.me/Bit_Path_Academy*`;
+            const mg = `🛑 *cyber dilshan powerful bug bot* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://raw.githubusercontent.com/Sudarshana2002dilshan/bot-helper/refs/heads/main/8cd141fd-204e-487c-b86d-006fa3ddfd1b.jpg",
               },
               caption: sid,
             });
